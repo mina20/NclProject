@@ -1,0 +1,15 @@
+Package: argo
+Type: Package
+Title: (ARGO) AutoRegression with GOogle search data - accurate
+        estimation of influenza epidemics
+Version: 1.0
+Date: 2015-11-14
+Author: Shihao Yang
+Maintainer: Shihao Yang <shihaoyang@g.harvard.edu>
+Description: Supplementary R package for PNAS article "Accurate estimation of influenza epidemics using Google search data via ARGO", by Shihao Yang, Mauricio Santillana, and S. C. Kou.
+License: GPL-2
+LazyData: TRUE
+Imports: xts, glmnet, zoo, boot
+Suggests: testthat
+NeedsCompilation: no
+Packaged: 2015-11-16 22:54:17 UTC; shihaoyang
